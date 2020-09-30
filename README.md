@@ -1,3 +1,5 @@
 # conflicts
 
- I am adding a line here 
+LOCAL
+
+I am adding a line here
